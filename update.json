@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "0.17.0",
+  "versionCode": 48,
+  "versionName": "0.17.1",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "aaf6b1355b294b9aac5a2c7c9a67b51646edf4bd680450200e5cef1bf26ed038",
-  "releaseNotes": "新增受限评论帖子自动跳过；新增断点继续和已处理帖子标题去重；修复跨轮刷新后重复处理同帖；话题/搜索新增模拟足迹总时长、随机点赞评论收藏评赞及评论最短间隔；新增帖子发布时间和评论时间筛选。",
+  "sha256": "80246f08c3a264e49e80969459ceb1e63c505b4bf3095d36fc8a7bb5f2395abb",
+  "releaseNotes": "受限评论帖子会在点击前或输入框等待阶段自动跳过且不计数；新增断点继续和标题指纹去重；修复跨轮刷新后重复同帖；话题/搜索新增模拟足迹总时长、随机点赞评论收藏评赞、评论最短间隔及帖子/评论时间筛选。",
   "force": false
 }
