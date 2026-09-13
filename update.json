@@ -1,0 +1,8 @@
+{
+  "versionCode": 40,
+  "versionName": "0.16.2",
+  "apkUrl": "xhs-comment-assistant.apk",
+  "sha256": "c9cfbb7d936a4b6cb3d280f191ee61dbc2234e064be9ba4dcdf5261ae3c5bdc6",
+  "releaseNotes": "OTA 通路验证版：更新服务器已固定，完善升级包签名校验与网址校验。功能与 v0.16.1 一致。",
+  "force": false
+}
