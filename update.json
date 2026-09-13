@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.16.2",
+  "versionCode": 41,
+  "versionName": "0.16.3",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "c9cfbb7d936a4b6cb3d280f191ee61dbc2234e064be9ba4dcdf5261ae3c5bdc6",
-  "releaseNotes": "OTA 通路验证版：更新服务器已固定，完善升级包签名校验与网址校验。功能与 v0.16.1 一致。",
+  "sha256": "4111fb286af56d01192c2047068e88df8875dd31ca57a6c10c4a00f47af03f4d",
+  "releaseNotes": "修复部分手机无法连接 Vercel：新增 GitHub Pages、GitHub Raw、jsDelivr、Vercel 四线路自动切换；连接失败提示改为中文。",
   "force": false
 }
