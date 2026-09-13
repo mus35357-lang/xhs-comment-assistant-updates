@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "0.16.8",
+  "versionCode": 47,
+  "versionName": "0.17.0",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "2e1dbcb5953033f7dec012bb2559206cce9f7ed132fec78c5766206344d49668",
-  "releaseNotes": "修复部分 Android 厂商系统把历史签名链当成当前签名，导致合法 OTA 升级包被误判为签名不一致的问题。",
+  "sha256": "aaf6b1355b294b9aac5a2c7c9a67b51646edf4bd680450200e5cef1bf26ed038",
+  "releaseNotes": "新增受限评论帖子自动跳过；新增断点继续和已处理帖子标题去重；修复跨轮刷新后重复处理同帖；话题/搜索新增模拟足迹总时长、随机点赞评论收藏评赞及评论最短间隔；新增帖子发布时间和评论时间筛选。",
   "force": false
 }
