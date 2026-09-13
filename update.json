@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.16.4",
+  "versionCode": 46,
+  "versionName": "0.16.8",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "9d98337c45b15a81cfd50cb604fd0f161af57e99c4b4a7e5e4664fe88aa4dfb8",
-  "releaseNotes": "多线路 OTA 验证版：用于确认 GitHub Pages、GitHub Raw、jsDelivr 自动切换更新正常；其他功能与 v0.16.3 一致。",
+  "sha256": "2e1dbcb5953033f7dec012bb2559206cce9f7ed132fec78c5766206344d49668",
+  "releaseNotes": "修复部分 Android 厂商系统把历史签名链当成当前签名，导致合法 OTA 升级包被误判为签名不一致的问题。",
   "force": false
 }
