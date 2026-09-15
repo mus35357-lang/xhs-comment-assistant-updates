@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "0.17.3",
+  "versionCode": 51,
+  "versionName": "0.17.4",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "ffee4599d6c689b4f6a347ba9cad7036c69b177d292361991bb09f72861cd37b",
-  "releaseNotes": "修复任务结束或暂停后仍保持亮屏；悬浮窗新增点按暂停/继续、长按结束；群监控、自动足迹及所有异常停止均保留继续入口；充电动画等临时覆盖会安全暂停并尝试自动恢复；运行时自动收纳为屏幕边缘半透明小图标，展开状态文字循环滚动。",
+  "sha256": "51793a12a3eac36e9de24cd1d2cece216d39ac80893ed699686a5191337c4e8f",
+  "releaseNotes": "修复部分 MIUI 手机 OTA 错误提示签名不一致的问题；保留 HTTPS、文件哈希、包名和版本校验，并由 Android 系统执行最终签名兼容校验。",
   "force": false
 }
