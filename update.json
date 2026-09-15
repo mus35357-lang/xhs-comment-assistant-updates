@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "0.17.5",
+  "versionCode": 53,
+  "versionName": "0.17.6",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "a02e68f4dc4964c1de997453e2d642ead1e0e6ae3b860fe6928c59fc884da5e4",
-  "releaseNotes": "修复部分 MIUI 手机 OTA 对有效升级包误报签名不一致；由 Android 系统进行最终签名兼容校验。",
+  "sha256": "b0f076d41a6e912af364af677bba35faa592ad5ca09a0520e6304602fa2fabc3",
+  "releaseNotes": "修复搜索/话题模拟足迹调用助手键盘时偶发卡在输入框等待；日期筛选在模拟足迹中仅控制是否评论，不再跳过帖子浏览；设置页面固定竖屏，避免旋转后启动模式错位。",
   "force": false
 }
