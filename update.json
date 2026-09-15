@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "0.17.7",
+  "versionCode": 55,
+  "versionName": "0.17.8",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "800cffe0f1750d730ada65845b11f08f2454fb9328f9baa6733c2562f65d6eff",
-  "releaseNotes": "修复帖子评论或小工具名称含“验证码”时被误判为风控提示并停止；现在仅在“请输入验证码、安全验证、人机验证、请完成验证”等明确提示出现时停机。",
+  "sha256": "d664a9721e840ed49a499a45be820c6df6ee8013c7d4cdcb34ee0a12bc834565",
+  "releaseNotes": "搜索/话题模拟足迹改为持续容错：视频卡片在列表或详情多层识别后直接跳过；单帖评论入口、输入、换行、小工具及确认异常不再终止任务，而是强制返回原列表继续；仅在多次返回失败或页面丢失时安全暂停。",
   "force": false
 }
