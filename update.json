@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "0.17.6",
+  "versionCode": 54,
+  "versionName": "0.17.7",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "b0f076d41a6e912af364af677bba35faa592ad5ca09a0520e6304602fa2fabc3",
-  "releaseNotes": "修复搜索/话题模拟足迹调用助手键盘时偶发卡在输入框等待；日期筛选在模拟足迹中仅控制是否评论，不再跳过帖子浏览；设置页面固定竖屏，避免旋转后启动模式错位。",
+  "sha256": "800cffe0f1750d730ada65845b11f08f2454fb9328f9baa6733c2562f65d6eff",
+  "releaseNotes": "修复帖子评论或小工具名称含“验证码”时被误判为风控提示并停止；现在仅在“请输入验证码、安全验证、人机验证、请完成验证”等明确提示出现时停机。",
   "force": false
 }
