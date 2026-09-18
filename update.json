@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "0.19.0",
+  "versionCode": 59,
+  "versionName": "0.19.1",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "861248a021eb2ffe4fc740eaf55836091b64ba8603bf7d9c6933f9ab9ffd641b",
-  "releaseNotes": "新增素材发布模式：从公司素材库原子领取素材、保存图片、发布笔记，并按顺序逐条发送小工具评论；支持发布次数与分钟间隔。修复服务恢复时把首页误判为帖子详情、误点市集，以及活动弹窗拦截评论的问题；任务完成后自动息屏。",
+  "sha256": "be807a6a0c1b10190fd0f2ee5be195b1511fe046ae0d55e5dda0276266365f29",
+  "releaseNotes": "优化所有模式的小工具顺序设置：统一使用一排1至9数字键和删除键；候选列表稳定后，超出实际小工具数量的序号会自动跳过，不再反复等待或停止任务；若全部序号都不存在则不发送空评论。",
   "force": false
 }
