@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "0.22.1",
+  "versionCode": 72,
+  "versionName": "0.22.2",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "dd7d255df18fc53f836d5608bd66b92afd3db89224f4db1fb07aacde22aaabea",
-  "releaseNotes": "优化素材发布主推小工具匹配：文案无《名称》时，自动用文案和话题对照本机已保存的小工具名称；例如 #别碰红色 可匹配 别碰红色。多个命中时优先最长完整名称，并保留发布前小工具、活动、正文、发布后评论顺序。",
+  "sha256": "37c8be1f6a82bf711358a06d1a430be2f2cc6375aae0d2fe6b38fed52787e77e",
+  "releaseNotes": "素材库默认地址更新为 https://zzz.agi687.com/sucai/。升级后会自动把旧 sucai.ai1966.com/v4 及该旧域名其他路径迁移到新素材库，无需逐台手机重新填写；同时包含文案话题匹配已保存小工具名称的优化。",
   "force": false
 }
