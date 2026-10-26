@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "0.21.0",
+  "versionCode": 71,
+  "versionName": "0.22.1",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "ecf2b44581b8eaf7d28d15d3293aace3e6eb435080744e14ac75171afa817f32",
-  "releaseNotes": "素材发布间隔改为小时并兼容旧分钟设置；每轮完成后自动息屏，到点由系统唤醒、上划解锁并恢复小红书首页；新增小工具更新群检查，首次运行建立基线，后续每轮自动打开未添加的新工具；兼容升级及阅读量、点赞、评论提醒弹窗，群同步异常不会中止素材发布。",
+  "sha256": "dd7d255df18fc53f836d5608bd66b92afd3db89224f4db1fb07aacde22aaabea",
+  "releaseNotes": "优化素材发布主推小工具匹配：文案无《名称》时，自动用文案和话题对照本机已保存的小工具名称；例如 #别碰红色 可匹配 别碰红色。多个命中时优先最长完整名称，并保留发布前小工具、活动、正文、发布后评论顺序。",
   "force": false
 }
