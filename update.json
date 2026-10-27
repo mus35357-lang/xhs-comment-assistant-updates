@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "0.22.5",
+  "versionCode": 76,
+  "versionName": "0.22.6",
   "apkUrl": "xhs-comment-assistant.apk",
-  "sha256": "a5dfc24071776ebf00afb5f3512a6a096ad334181222e4661fa0252c579d1093",
-  "releaseNotes": "修复视频素材发布后无法稳定评论：自动重新聚焦评论框，兼容视频时间点栏，准确点击最右侧小工具入口，并正确识别发送成功；修复文案话题与发布页完整小工具列表匹配，支持屏幕外候选。",
+  "sha256": "cb3aae19d63b2a2cca4f4b87b315892dfb1dea0d413c70a33f0bce9b24905f1d",
+  "releaseNotes": "修复部分手机发布页已选中小工具却找不到确认按钮；修复视频评论把表情误认成更多入口的问题，并自动清理误点产生的表情或时间点。",
   "force": false
 }
